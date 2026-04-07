@@ -1,0 +1,33 @@
+"region","balance_quartile","loan_cnt","avg_balance","churn_rate"
+Prague,1,13,16686.0,23.1
+Prague,2,21,32370.0,9.5
+Prague,3,23,50610.0,0.0
+Prague,4,27,81399.0,7.4
+central Bohemia,1,14,11458.0,35.7
+central Bohemia,2,21,33609.0,9.5
+central Bohemia,3,24,48723.0,8.3
+central Bohemia,4,31,80564.0,3.2
+east Bohemia,1,10,10730.0,40.0
+east Bohemia,2,21,30904.0,14.3
+east Bohemia,3,21,49719.0,4.8
+east Bohemia,4,32,79532.0,3.1
+north Bohemia,1,9,17520.0,0.0
+north Bohemia,2,9,30965.0,0.0
+north Bohemia,3,18,52059.0,0.0
+north Bohemia,4,25,81898.0,4.0
+north Moravia,1,19,12785.0,52.6
+north Moravia,2,24,31049.0,8.3
+north Moravia,3,36,47591.0,5.6
+north Moravia,4,38,81393.0,10.5
+south Bohemia,1,12,12983.0,41.7
+south Bohemia,2,14,29103.0,7.1
+south Bohemia,3,16,46275.0,12.5
+south Bohemia,4,18,77324.0,5.6
+south Moravia,1,20,18148.0,15.0
+south Moravia,2,26,31110.0,15.4
+south Moravia,3,39,48765.0,7.7
+south Moravia,4,44,79119.0,6.8
+west Bohemia,1,7,15414.0,42.9
+west Bohemia,2,16,29509.0,12.5
+west Bohemia,3,18,51457.0,5.6
+west Bohemia,4,16,80320.0,18.8

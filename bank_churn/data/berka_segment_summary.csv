@@ -1,0 +1,33 @@
+"region","segment","customer_cnt","avg_balance","avg_loan_amount","churn_rate","retention_roi"
+Prague,Low value - High activity,23,26690.0,165068.0,21.7,1241.0
+Prague,High value - High activity,28,71127.0,117399.0,7.1,1024.0
+Prague,Low value - Low activity,11,25712.0,175867.0,0.0,-500.0
+Prague,High value - Low activity,22,62284.0,177916.0,0.0,-500.0
+central Bohemia,Low value - High activity,18,26989.0,149495.0,22.2,1299.0
+central Bohemia,Low value - Low activity,17,22376.0,124201.0,17.6,685.0
+central Bohemia,High value - High activity,38,64041.0,174258.0,7.9,1017.0
+central Bohemia,High value - Low activity,17,72544.0,150656.0,0.0,-500.0
+east Bohemia,Low value - High activity,17,24770.0,128087.0,29.4,1686.0
+east Bohemia,Low value - Low activity,14,23943.0,188822.0,14.3,526.0
+east Bohemia,High value - Low activity,18,63406.0,219364.0,5.6,557.0
+east Bohemia,High value - High activity,35,69938.0,147834.0,2.9,99.0
+north Bohemia,High value - High activity,25,75764.0,110499.0,4.0,409.0
+north Bohemia,Low value - Low activity,8,24531.0,104321.0,0.0,-500.0
+north Bohemia,Low value - High activity,10,24012.0,122717.0,0.0,-500.0
+north Bohemia,High value - Low activity,18,60579.0,147911.0,0.0,-500.0
+north Moravia,Low value - High activity,23,21229.0,141365.0,34.8,1715.0
+north Moravia,Low value - Low activity,20,24991.0,177622.0,20.0,999.0
+north Moravia,High value - High activity,44,65429.0,148952.0,11.4,1731.0
+north Moravia,High value - Low activity,30,64244.0,157453.0,3.3,142.0
+south Bohemia,Low value - High activity,17,23295.0,131971.0,29.4,1555.0
+south Bohemia,Low value - Low activity,9,18580.0,180204.0,11.1,119.0
+south Bohemia,High value - High activity,21,65577.0,151915.0,9.5,1374.0
+south Bohemia,High value - Low activity,13,58086.0,178352.0,7.7,840.0
+south Moravia,Low value - High activity,24,23537.0,156948.0,16.7,677.0
+south Moravia,High value - Low activity,28,62358.0,131386.0,14.3,2172.0
+south Moravia,Low value - Low activity,22,27587.0,150043.0,13.6,629.0
+south Moravia,High value - High activity,55,66128.0,162406.0,3.6,221.0
+west Bohemia,Low value - Low activity,9,26982.0,131776.0,22.2,1299.0
+west Bohemia,Low value - High activity,14,24086.0,120469.0,21.4,1048.0
+west Bohemia,High value - High activity,23,69103.0,146927.0,17.4,3105.0
+west Bohemia,High value - Low activity,11,56543.0,138864.0,0.0,-500.0
