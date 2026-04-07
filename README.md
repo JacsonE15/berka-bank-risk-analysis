@@ -29,10 +29,11 @@ Real anonymized Czech banking data (1993–1998), 8 related tables,
 
 ## Project Structure
 ```
+├── data/                 # Berka Dataset
 ├── sql/                  # SQL queries for EDA and segment analysis
 ├── notebook/             # Jupyter notebooks for Python analysis
 ├── output/
 │   ├── charts/           # Python visualizations
-│   └── tableau/          # Tableau Story screenshots
-└── tableau/              # Tableau packaged workbook (.twbx)
+    └── tableau/          # Tableau Story screenshots
+
 ```
